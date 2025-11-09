@@ -1,4 +1,5 @@
-# Neonium
+# Colorium
+# The ReadMe is not yet fixed
 <img src="https://raw.githubusercontent.com/NeoX2025Gaming/Neonium/refs/heads/master/src/main/resources/assets/neonium/logo.png" width="256">
 
 [![](https://img.shields.io/github/stars/NeoX2025Gaming/Neonium?style=flat-square)](https://github.com/NeoX2025Gaming/Neonium/stargazers)
