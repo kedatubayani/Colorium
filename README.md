@@ -9,11 +9,11 @@
 [![](https://img.shields.io/curseforge/dt/1237961?logo=curseforge&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/neonium)
 [![](https://img.shields.io/modrinth/dt/neonium?logo=modrinth&label=Modrinth)](https://modrinth.com/mod/neonium)
 
-Neonium is a fork of [Vintagium by Asek3](https://github.com/Asek3/sodium-1.12), which itself is a fork of [CaffeineMC's "Sodium"](https://github.com/CaffeineMC/sodium), ported to Minecraft 1.12.2 and designed to work with Forge Mod Loader.
+~~Neonium is a fork of [Vintagium by Asek3](https://github.com/Asek3/sodium-1.12), which itself is a fork of [CaffeineMC's "Sodium"](https://github.com/CaffeineMC/sodium), ported to Minecraft 1.12.2 and designed to work with Forge Mod Loader.~~
 
-Neonium's main goal is to provide the best performance improvements possible for Minecraft 1.12.2 while maintaining compatibility with other mods.
+~~Neonium's main goal is to provide the best performance improvements possible for Minecraft 1.12.2 while maintaining compatibility with other mods.~~
 
-## 📢 Disclaimer
+~~~~## 📢 Disclaimer
 Known incompatibilities:
 - Optifine (Neonium is not and will never be compatible with Optifine)
 - FarPlaneTwo (Neonium will not have any support for FarPlaneTwo)
@@ -32,4 +32,4 @@ Due to limited time, feature requests are best made through pull requests. I'll 
 Neonium is licensed under the LGPLv3 License. For more information, see the [LICENSE](LICENSE) file.
 
 ---
-Thank you for supporting Neonium! 💖
+Thank you for supporting Neonium! 💖~~~~
